@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@assertive-ts/core": "^2.1.0",
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@cypress/webpack-preprocessor": "latest",
+    "cypress": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest"
+  }
+}
